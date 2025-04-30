@@ -4,8 +4,8 @@ This is a terrible state-management library that you should not use. But it was 
 
 
 ```ts
- //
- const state = StateFarm({
+ // All state can be managed in one big global export, used across your app.
+ export const state = StateFarm({
     someParent: {
       someValue: 1
     },
