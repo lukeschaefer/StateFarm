@@ -1,5 +1,11 @@
 This is a terrible state-management library that you should not use. But it was fun to make and play around with.
 
+```bash
+npm i statefarm
+```
+
+You'd be a fool to include this library in any project of yours.
+
 ### How it works:
 
 
